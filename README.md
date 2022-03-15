@@ -1,2 +1,3 @@
 # TimeSeries_Regression
-time series and regression assignments
+
+*see jupyter lab, notebook or copy and paste code into VS code to run
